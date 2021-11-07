@@ -1,0 +1,16 @@
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\bin\Debug\EcShop.exe.config
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\bin\Debug\EcShop.exe
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\bin\Debug\EcShop.pdb
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.csprojResolveAssemblyReference.cache
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.CategoryForm.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.ComHrdManagment.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.ProductForm.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.Properties.Resources.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.sellerForm.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.csproj.GenerateResource.Cache
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.exe
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.pdb
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.loginForm.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.SellingForm.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.BillHistry.resources
+C:\Users\nur26\OneDrive\Documents\Visual Studio 2015\Projects\EcShop\EcShop\obj\Debug\EcShop.LoGin.resources
