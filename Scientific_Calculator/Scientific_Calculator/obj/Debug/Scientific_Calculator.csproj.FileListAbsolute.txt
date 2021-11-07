@@ -1,0 +1,10 @@
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csprojAssemblyReference.cache
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.GenerateResource.cache
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.CoreCompileInputs.cache
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+E:\C Sharp\FINAL\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
